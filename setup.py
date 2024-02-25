@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="create-sequel-app",
-    version="0.1.0",
+    name="create-sequel-app-cli",
+    version="0.1.1",
     py_modules=["create_sequel_app"],
     description="Create a new Sequel project",
     author="Kyle Lee",

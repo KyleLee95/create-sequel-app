@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: create-sequel-app
+Name: create-sequel-app-cli
 Version: 0.1.1
 Summary: Create a new Sequel project
 Home-page: https://github.com/kylelee95/create_sequel_app
