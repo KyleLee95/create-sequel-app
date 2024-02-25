@@ -2,10 +2,9 @@ Metadata-Version: 2.1
 Name: create-sequel-app
 Version: 0.1.0
 Summary: Create a new Sequel project
+Home-page: https://github.com/kylelee95/create_sequel_app
 Author: Kyle Lee
 Author-email: kyle@kylelee.dev
-Classifier: Programming language;;Python;;3
-Classifier: License;;OSI Approved;; MIT License
-Classifier: Operating Stem;; OS Independent
+Classifier: Programming Language :: Python :: 3
 Requires-Python: >=3.10
 Requires-Dist: Click

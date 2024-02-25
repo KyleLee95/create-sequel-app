@@ -2,11 +2,10 @@ import subprocess
 import os
 import click
 import shutil
-from pathlib import Path
 
 
 # Assuming the CLI is run from the repository root
-TEMPLATE_DIR = Path(__file__).parent.parent / "template_project"
+TEMPLATE_DIR = "./template_project"
 
 # Use TEMPLATE_DIR as the source for copying files
 
