@@ -9,6 +9,7 @@ setup(
     author_email="kyle@kylelee.dev",
     packages=find_packages(),
     presetup_requires=["click"],
+    url="https://github.com/kylelee95/create_sequel_app",
     install_requires=[
         "Click",
     ],
@@ -18,9 +19,7 @@ setup(
         create-sequel-app=create_sequel_app:create_project
     """,
     classifiers=[
-        "Programming language;;Python;;3",
-        "License;;OSI Approved;; MIT License",
-        "Operating Stem;; OS Independent",
-    ],
+        "Programming Language :: Python :: 3",
+    ]
     python_requires=">=3.10",
 )
