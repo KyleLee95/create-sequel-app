@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c2aff5cf0891af378188f023dbe033697e145fb91902fc161609bae556ecbe10"
+            "sha256": "4ee15b5da5a437bfdd48bc4ed32cd0db537a2b9dd15c0dc2efb6a7b0c9cb951f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -25,7 +25,7 @@
             "markers": "python_version >= '3.7'",
             "version": "==8.1.7"
         },
-        "create-sequel-app": {
+        "create-sequel-app-cli": {
             "editable": true,
             "file": "."
         }

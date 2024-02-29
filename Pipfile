@@ -7,6 +7,7 @@ name = "pypi"
 click = "*"
 create-myapp = {file = ".", editable = true}
 create-sequel-app = {file = ".", editable = true}
+create-sequel-app-cli = {file = ".", editable = true}
 
 [dev-packages]
 
