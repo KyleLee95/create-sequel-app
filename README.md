@@ -1,3 +1,5 @@
+# Watch the video walkthrough here:
+[YouTube Link](https://www.youtube.com/watch?v=wYVdnM_72TI&t=20s)
 # CLI Tool for Creating a Sequel App
 
 ## Table of Contents
